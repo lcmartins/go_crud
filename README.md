@@ -1,1 +1,1 @@
-# go_crud
+# starting go studies
