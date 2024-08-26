@@ -1,1 +1,1 @@
-# starting go studies
+# starting golang
